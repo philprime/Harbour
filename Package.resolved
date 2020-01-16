@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cabinet",
+        "repositoryURL": "https://github.com/philprime/Cabinet",
+        "state": {
+          "branch": null,
+          "revision": "bbb9b222d03dca28e2e3f9a1df05bab40aa2ff52",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Flow",
+        "repositoryURL": "https://github.com/philprime/Flow",
+        "state": {
+          "branch": null,
+          "revision": "af7edfb205cfc0ba746de6da43aa65ca80b69bc4",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble",
+        "state": {
+          "branch": null,
+          "revision": "7a46a5fc86cb917f69e3daf79fcb045283d8f008",
+          "version": "8.1.2"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick",
+        "state": {
+          "branch": null,
+          "revision": "09b3becb37cb2163919a3842a4c5fa6ec7130792",
+          "version": "2.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

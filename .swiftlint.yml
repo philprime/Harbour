@@ -1,0 +1,11 @@
+included:
+  - Sources
+
+# Rules
+
+type_name:
+  excluded:
+    - ID
+
+line_length:
+  warning: 200
