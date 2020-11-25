@@ -17,7 +17,9 @@ let package = Package(
             "Cabinet"
         ]),
         .testTarget(name: "HarbourTests", dependencies: [
-            "Harbour"
+            "Harbour",
+            "Quick",
+            "Nimble"
         ]),
     ]
 )
