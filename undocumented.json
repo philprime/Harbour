@@ -1,0 +1,159 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 4,
+      "symbol": "ClientSocket",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 20,
+      "symbol": "ClientSocket.readLine()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 32,
+      "symbol": "ClientSocket.read(length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 40,
+      "symbol": "ClientSocket.readSingleByte()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 53,
+      "symbol": "ClientSocket.write(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 57,
+      "symbol": "ClientSocket.send(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 61,
+      "symbol": "ClientSocket.close()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ClientSocket.swift",
+      "line": 70,
+      "symbol": "ClientSocket",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ServerSocket.swift",
+      "line": 4,
+      "symbol": "ServerSocket",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ServerSocket.swift",
+      "line": 9,
+      "symbol": "ServerSocket.init(port:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ServerSocket.swift",
+      "line": 48,
+      "symbol": "ServerSocket.port()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ServerSocket.swift",
+      "line": 64,
+      "symbol": "ServerSocket.accept()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/ServerSocket.swift",
+      "line": 74,
+      "symbol": "ServerSocket.close()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 1,
+      "symbol": "SocketError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 3,
+      "symbol": "SocketError.creatingSocketFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 4,
+      "symbol": "SocketError.settingSocketOptionsFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 5,
+      "symbol": "SocketError.bindingSocketFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 6,
+      "symbol": "SocketError.listeningOnSocketFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 7,
+      "symbol": "SocketError.acceptingFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 9,
+      "symbol": "SocketError.getSocketAddrFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 11,
+      "symbol": "SocketError.readFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Harbour/Harbour/Sources/Harbour/SocketError.swift",
+      "line": 13,
+      "symbol": "SocketError.closed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/Harbour/Harbour"
+}
